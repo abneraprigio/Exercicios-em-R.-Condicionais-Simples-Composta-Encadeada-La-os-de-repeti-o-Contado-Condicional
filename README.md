@@ -1,0 +1,1 @@
+# Exercicios-em-R.-Condicionais-Simples-Composta-Encadeada-La-os-de-repeti-o-Contado-Condicional
